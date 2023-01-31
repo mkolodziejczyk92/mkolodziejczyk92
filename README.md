@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, my name is Marcin. Welcome everyone on my GitHub repository 👋
+***
+I am an ambitious salesman who has decided to join the ranks of
+the IT industry. 
 
-<!--
-**mkolodziejczyk92/mkolodziejczyk92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :computer: I am currently working on the biggest project in my short programming career. The project is an auction service. The repository and commit history can be found here: https://github.com/Savilus/auction-service
 
-Here are some ideas to get you started:
+- :school: Presently I am learning Back-end and Front-end technologies. Next project will use JAVA, Spring Boot, MySQL and Vaadin framework. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :mag_right: I am looking for a first job that allows me to have
+daily contact with production code.
+
+- 📫 How to reach me: marcin.kdz92@gmail.com
+
