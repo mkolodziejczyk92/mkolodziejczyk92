@@ -38,7 +38,7 @@
 
 &emsp; :small_blue_diamond: repository :heavy_exclamation_mark:https://github.com/mkolodziejczyk92/online-shop :heavy_exclamation_mark:
 
-&emsp; :small_blue_diamond: Technologies that are used used for this application
+&emsp; :small_blue_diamond: Technologies that are used for this application
 <div align="center">
 	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
 	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
