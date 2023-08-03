@@ -59,8 +59,13 @@
 <p align="center">
           <a href="https://github.com/mkolodziejczyk92">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mkolodziejczyk92&show_icons=true&theme=gruvbox&hide_border=true" />
-          </a>
+	  </a>
        </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkolodziejczyk92&layout=compact)](https://github.com/mkolodziejczyk92/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mkolodziejczyk92)](https://git.io/streak-stats)
+
+
 
 
 :diamond_shape_with_a_dot_inside: I am currently learning Back-end and Front-end technologies. I am looking for a first job that allows me to have
