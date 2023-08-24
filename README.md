@@ -100,7 +100,7 @@ Feel free to email me at adres: marcin.kdz92@gmail.com
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" alt="Lombok" title="Lombok"/></code>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 </div>
-
+<br></br>
 
 <p align="center">
           <a href="https://github.com/mkolodziejczyk92">
