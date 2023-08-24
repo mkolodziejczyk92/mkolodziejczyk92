@@ -101,6 +101,7 @@ Feel free to email me at adres: marcin.kdz92@gmail.com
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 </div>
 
+
 <p align="center">
           <a href="https://github.com/mkolodziejczyk92">
          	 <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mkolodziejczyk92&show_icons=true&theme=gruvbox&hide_border=true" />
