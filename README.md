@@ -1,6 +1,6 @@
 ### Hi, my name is Marcin Kołodziejczyk. Welcome everyone on my GitHub repository. 
 I am an experienced trader with a passion for programming that has turned into a day job. I am currently working as a Junior Java Developer using my years of experience gained in the demanding banking sector. In my spare time I also program applications that make life easier for me or my friends. Below you can see my best private projects.<br></br>
-Feel free to email me at adres: marcin.kdz92@gmail.com
+Feel free to email me at: marcin.kdz92@gmail.com
 ***
 <div align="center">  :arrow_down_small: <b> MAIN PROJECTS </b> :arrow_down_small: </div>
 <br></br>:white_check_mark: <b>Anonymous Santa</b>
